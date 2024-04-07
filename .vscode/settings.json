@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./scrapy_crawler"
+    ]
+}

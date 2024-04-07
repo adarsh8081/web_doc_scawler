@@ -1,0 +1,4 @@
+scrapy>=2.5.0
+flask>=2.0.0
+nltk>=3.6.0
+gensim>=4.0.0
